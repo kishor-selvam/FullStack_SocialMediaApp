@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "React",
+      "datetime": "September 05, 2023 11:34:07 AM",
+      "body": "I Love React"
+    },
+    {
+      "id": 5,
+      "title": "Java",
+      "datetime": "September 04, 2023 7:42:22 PM",
+      "body": "Java is Programming language\n"
+    },
+    {
+      "id": 6,
+      "title": "Css",
+      "datetime": "September 05, 2023 11:33:36 AM",
+      "body": "We Are Used css for styling web pages"
+    }
+  ]
+}
